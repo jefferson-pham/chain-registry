@@ -143,10 +143,6 @@
         "provider": "StakeAngle"
       },
       {
-        "address": "agoric-rpc.nodeasy.com:31531",
-        "provider": "Nodeasy"
-      },
-      {
         "address": "https://agoric-rpc.w3coins.io",
         "provider": "w3coins"
       }
